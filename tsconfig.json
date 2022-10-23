@@ -2,6 +2,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+   /*"strictPropertyInitialization": false,  Para no tener que inicializar variables*/
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
